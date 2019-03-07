@@ -7,16 +7,26 @@
 <title>Project Demo</title>
 </head>
 <body>
-<b> <center>Beginning</center> </b>
-	<center>
-	<form action="addAlien">
+<b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beginning</b>
+	
+	<!-- <form action="addAlien">
 	<br><br><br>
 	<p> 
 		<input type="text" name="aid"><br>
 		<input type="text" name="aname"><br>
+		<input type="text" name="tech"><br>
 		 <input type="submit"> <br>
 	</p>
+	</form> -->
+	
+	<form action="getAlien">
+	<br><br><br>
+	<p> 
+		<input type="text" name="aid"><br>
+		
+		<input type="submit"> <br>
+	</p>
 	</form>
-	</center>
+	
 </body>
 </html>
